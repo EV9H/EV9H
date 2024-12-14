@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hi there 👋 I am Haozhou (Evan) Huang. 
+- 🌱 I am currently a master student in Computer Science at New York University.
+- 🔭 Check out www.renter-x.com. I’m the author and currently working on it. 
 <!--
 **EV9H/EV9H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
