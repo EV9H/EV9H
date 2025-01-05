@@ -1,17 +1,39 @@
-## Hi there 👋 I am Haozhou (Evan) Huang. 
-- 🌱 I am currently a master student in Computer Science at New York University.
-- 🔭 Welcome to check out www.renter-x.com. I’m the author and currently working on it. Any feedbacks are greatly appreciated! 
-<!--
-**EV9H/EV9H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Haozhou (Evan) Huang! 👋
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Haozhou%20Huang-blue)](https://linkedin.com/in/haozhou-huang/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-evanhuang.tech-green)](https://evanhuang.tech/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=EV9H&show_icons=true&theme=radical)
+
+
+## Current Projects 
+
+### [Renter-X](https://www.renter-x.com/)
+- Under development
+- Actively seeking feedback and contributions
+
+### [TGSOU](https://github.com/TGSou/TG-SOU-main)
+- Co-author 
+
+## Skills with experience
+
+### Technologies
+
+```text
+Backend:     Python, JavaScript, C++, TypeScript
+Frontend:    JavaScript, HTML/CSS, JSON/XML
+Databases:   SQL, Redis, DynamoDB, PostgreSQL
+Cloud:       AWS (RDS, Kinesis, SNS/SQS, API Gateway), Azure
+DevOps:      Docker, Kubernetes, Git
+```
+
+### Frameworks & Libraries
+```text
+Backend:     Flask, Django, RESTful APIs
+Frontend:    React.js, Next.js, Vue.js
+```
+
+## Education 
+- **New York University**, Master of Science in Computer Science
+- **New York University**, Bachelor of Arts in Computer Science & Economics
+
