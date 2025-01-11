@@ -12,8 +12,8 @@
 - Under development
 - Actively seeking feedback and contributions
 
-### [TGSOU](https://github.com/TGSou/TG-SOU-main)
-- Co-author 
+### [CadenceNotes](https://cadence-app-cadence-977b932e.vercel.app/)
+- Co-author
 
 ## Skills with experience
 
