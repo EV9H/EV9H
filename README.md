@@ -9,8 +9,8 @@
 - Under development
 - Actively seeking feedback and contributions
 
-### [CadenceNotes](https://cadence-app-cadence-977b932e.vercel.app/)
-- Co-author
+### [Agilee.app](https://agilee.app/)
+- Beta
 
 ## Education 
 - **New York University**, Master of Science in Computer Science
