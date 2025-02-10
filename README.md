@@ -1,7 +1,7 @@
 # Hi there, I'm Haozhou (Evan) Huang! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Haozhou%20Huang-blue)](https://linkedin.com/in/haozhou-huang/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-evanhuang.dev-green)](https://evanhuang.dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-evanhuang.dev-blue)](https://evanhuang.dev/)
 
 ## Current Projects 
 
