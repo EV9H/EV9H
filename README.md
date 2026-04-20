@@ -17,9 +17,9 @@ I build things I actually use. ex-Amazon ,NYU.
 
 ### Tech I reach for
 
-Rust · TypeScript · Python · Java · Next.js · Svelte · Tauri · PostgreSQL · AWS (CDK, DynamoDB, Kinesis, SQS) · Docker · Kubernetes
+- Rust · TypeScript · Python · Java · Next.js · Svelte · Tauri · PostgreSQL · AWS (CDK, DynamoDB, Kinesis, SQS) · Docker · Kubernetes
 
 ### Education
 
-**NYU Courant** — MS Computer Science, 2023–2025
-**NYU** — BA Computer Science & Economics, 2019–2023
+- **NYU Courant** — MS Computer Science, 2023–2025
+- **NYU** — BA Computer Science & Economics, 2019–2023
