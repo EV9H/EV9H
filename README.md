@@ -4,7 +4,9 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-evanhuang.dev-blue)](https://evanhuang.dev/)
 
 ## Current Projects 
-
+### [World Engine (AI Town)](https://gpt-roundtable.vercel.app/)
+- Project for fun. Multi-agent communication and memory system.
+  
 ### [Renter-X](https://www.renter-x.com/)
 - Under development
 - Actively seeking feedback and contributions
