@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 460" width="1280" height="460" role="img" aria-label="EV9H — Evan Huang">
+  <!-- callsign -->
+  <text x="80" y="280"
+        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Inter, Arial, sans-serif"
+        font-weight="900"
+        font-size="240"
+        letter-spacing="-10"
+        fill="#0a0908">EV9H<tspan fill="#e63946">.</tspan></text>
+
+  <!-- given name -->
+  <text x="80" y="335"
+        font-family="ui-monospace, 'SF Mono', Menlo, 'JetBrains Mono', monospace"
+        font-size="15"
+        font-weight="500"
+        letter-spacing="6"
+        fill="#0a0908"
+        opacity="0.55">EVAN HUANG</text>
+
+  <!-- bottom rule -->
+  <line x1="80" y1="395" x2="1200" y2="395" stroke="#0a0908" stroke-opacity="0.16" stroke-width="1"/>
+
+  <!-- byline -->
+  <text x="80" y="425"
+        font-family="ui-monospace, 'SF Mono', Menlo, 'JetBrains Mono', monospace"
+        font-size="13"
+        font-weight="500"
+        letter-spacing="4"
+        fill="#0a0908"
+        opacity="0.55">ex-AMAZON SDE  ·  NYU CS  ·  evanhuang.dev</text>
+</svg>
