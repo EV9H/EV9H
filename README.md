@@ -10,7 +10,7 @@ I build things I actually use. ex-Amazon ,NYU.
 
 ### Past projects
 
-- **[Hatchmark](https://github.com/EV9H/Hatchmark)** a desktop app that use physical key binds to track, analyze 
+- **[Hatchmark](https://github.com/EV9H/Hatchmark)** a desktop app that use physical key binds to track, analyze habits counter
 - **[Agilee](https://agilee.app/)** — Agile-meeting SaaS 
 - **[RenterX](https://www.renter-x.com/)** — NYC rental aggregator.
 
