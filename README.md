@@ -1,5 +1,9 @@
-I build things I actually use. ex-Amazon ,NYU. 
-
+                                                                     
+  <picture>                                                                                                                                                                                                                           
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">                                                                                                                                                     
+    <img src="./assets/hero-light.svg" alt="EV9H — Evan Huang" width="100%">                                                                                                                                                          
+  </picture>  
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Haozhou%20Huang-blue)](https://linkedin.com/in/haozhou-huang/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-evanhuang.dev-blue)](https://evanhuang.dev/)
 
@@ -8,13 +12,8 @@ I build things I actually use. ex-Amazon ,NYU.
 - **[World Engine](https://gpt-roundtable.vercel.app/)** — 2D World Live Simulation with multi-agent communication + persistent memory + Maslow drives. AI-Town inspired implementation. 
 
 
-### Past projects
+### Past 
 
 - **[Hatchmark](https://github.com/EV9H/Hatchmark)** a desktop app that use physical key binds to track, analyze habits counter
 - **[Agilee](https://agilee.app/)** — Agile-meeting SaaS 
 - **[RenterX](https://www.renter-x.com/)** — NYC rental aggregator.
-
-
-### Experience
-- 2025-2026 SDE @ Amazon
-- 2019-2025 MS&BA CS @ NYU
